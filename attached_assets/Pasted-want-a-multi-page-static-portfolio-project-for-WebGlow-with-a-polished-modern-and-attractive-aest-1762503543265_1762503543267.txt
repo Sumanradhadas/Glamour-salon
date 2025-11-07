@@ -1,0 +1,51 @@
+want a multi-page static portfolio project for WebGlow, with a polished, modern, and attractive aesthetic — simple but impressive.
+
+Here’s the project concept + description (you’ll showcase this in your WebGlow portfolio):
+
+🌸 Project: Glamour Beauty Salon
+
+Category: Beauty & Wellness
+Type: Multi-page Static Website
+Developer: WebGlow
+
+💡 Project Description
+
+Glamour Beauty Salon is a sleek, multi-page website designed to represent an elegant beauty and wellness brand. The site blends luxury aesthetics with simplicity, using a dark navy-lavender glow theme that feels both modern and soothing.
+
+Built entirely with HTML, CSS, and a touch of JavaScript, it’s lightweight, fast, and perfect for portfolios or small businesses that want a professional digital presence without heavy frameworks.
+
+🧭 Site Structure (Pages)
+
+Home Page – Eye-catching hero section with salon name, tagline, and glowing call-to-action button (“Book Now”).
+
+Services Page – Grid layout showcasing top services like Hair Styling, Makeup, and Spa with hover animations.
+
+Gallery Page – Before-and-After transformations displayed in a responsive gallery.
+
+Team Page – Stylish staff profiles with photos and role highlights.
+
+Contact Page – Simple booking/contact form with email and phone details.
+
+🎨 Design Highlights
+
+Dark luxury palette: Navy-black with pink-violet glow accents.
+
+Glassmorphism elements: Semi-transparent panels for a modern premium feel.
+
+Soft motion effects: Smooth transitions and hover glows.
+
+Responsive design: Works seamlessly on mobile and desktop.
+
+Minimal yet premium: Just enough movement and contrast to feel advanced but not overwhelming.
+
+⚙️ Tech Stack
+
+HTML5 for structure
+
+CSS3 (Flexbox + Grid) for layout and animations
+
+Vanilla JavaScript for light interactivity (like form and menu)
+
+🪩 Purpose
+
+Created to demonstrate how WebGlow transforms a traditional local business (like a salon) into a digital luxury brand — showing design capability, user experience thinking, and technical execution.
